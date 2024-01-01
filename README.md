@@ -1,30 +1,35 @@
-<h1 align="center">Hi 👋, I'm Dawam</h1>
-<h3 align="center">A passionate UI/UX designer and frontend developer from Indonesia</h3>
+### Hi! 👋 I'm Dawam.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhwanud-dawam&label=Profile%20views&color=0e75b6&style=flat" alt="ikhwanud-dawam" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikhwanud-dawam" alt="ikhwanud-dawam" /></a> </p>
+An independent Software Engineer who loves to create and share projects about web and machine learning! I've enjoyed JavaScript and Python so I made it the main language for project creation.
 
-<p align="left"> <a href="https://twitter.com/ikhwanud_dawam" target="blank"><img src="https://img.shields.io/twitter/follow/ikhwanud_dawam?logo=twitter&style=for-the-badge" alt="ikhwanud_dawam" /></a> </p>
+- 🎓 I graduated from informatics major at UIN Sunan Kalijaga in 2023.
+- 🌱 I’m currently learning about **React JS** and **machine learning**, especially **TensorFlow**
+- 💬 Feel free to ask me about front-end development and machine learning topics
+- 📫 How to reach me: **ikhwanuddawam@gmail.com**
+- ⚡ Fun fact: I like watching anime and playing some games
 
-- 🌱 I’m currently learning **React JS**
-
-- 📫 How to reach me **d4w4m123@gmail.com**
-
-- ⚡ Fun fact **I think japan is cool**
-
-<h3 align="left">Connect with me:</h3>
+### Tech Stack
+  <p align="center">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  </p>
+  
+### Github Statistic
 <p align="left">
-<a href="https://twitter.com/ikhwanud_dawam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikhwanud_dawam" height="30" width="40" /></a>
+<a href="https://github.com/ikhwanud-dawam">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ikhwanud-dawam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ikhwanud-dawam&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhwanud-dawam&show_icons=true&locale=en&layout=compact" alt="ikhwanud-dawam" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikhwanud-dawam&show_icons=true&locale=en" alt="ikhwanud-dawam" /></p>
-
+### Reach me on
+<a href="https://linkedin.com/in/mohammadikhwanuddawam/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:ikhwanuddawam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <!---
 ikhwanud-dawam/ikhwanud-dawam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
