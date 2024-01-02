@@ -1,3 +1,5 @@
+<img src='https://media1.tenor.com/images/f2cf8db002f228e3385f6f6c33ea64b4/tenor.gif?itemid=8674130' width='100%' alt='BannerGIF'>
+
 ### Hi! 👋 I'm Dawam.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ikhwanud-dawam&label=Profile%20views&color=0e75b6&style=flat" alt="ikhwanud-dawam" /> </p>
