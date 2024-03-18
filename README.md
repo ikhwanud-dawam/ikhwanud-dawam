@@ -7,7 +7,7 @@
 An independent Software Engineer who loves to create and share projects about web and machine learning! I've enjoyed JavaScript and Python so I made it the main language for project creation.
 
 - 🎓 I graduated from informatics major at UIN Sunan Kalijaga in 2023.
-- 🌱 I’m currently learning about **React JS** and **machine learning**, especially **TensorFlow**
+- 🌱 I’m currently learning about **React JS**, **Back-end**, and **Machine Learning**, especially **TensorFlow**
 - 💬 Feel free to ask me about front-end development and machine learning topics
 - 📫 How to reach me: **ikhwanuddawam@gmail.com**
 - ⚡ Fun fact: I like watching anime and playing some games
